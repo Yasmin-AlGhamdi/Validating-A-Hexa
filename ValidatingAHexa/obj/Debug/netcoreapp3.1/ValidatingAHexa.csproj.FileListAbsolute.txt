@@ -1,0 +1,12 @@
+C:\Users\Yasmin\source\repos\ValidatingAHexa\ValidatingAHexa\bin\Debug\netcoreapp3.1\ValidatingAHexa.exe
+C:\Users\Yasmin\source\repos\ValidatingAHexa\ValidatingAHexa\bin\Debug\netcoreapp3.1\ValidatingAHexa.deps.json
+C:\Users\Yasmin\source\repos\ValidatingAHexa\ValidatingAHexa\bin\Debug\netcoreapp3.1\ValidatingAHexa.runtimeconfig.json
+C:\Users\Yasmin\source\repos\ValidatingAHexa\ValidatingAHexa\bin\Debug\netcoreapp3.1\ValidatingAHexa.runtimeconfig.dev.json
+C:\Users\Yasmin\source\repos\ValidatingAHexa\ValidatingAHexa\bin\Debug\netcoreapp3.1\ValidatingAHexa.dll
+C:\Users\Yasmin\source\repos\ValidatingAHexa\ValidatingAHexa\bin\Debug\netcoreapp3.1\ValidatingAHexa.pdb
+C:\Users\Yasmin\source\repos\ValidatingAHexa\ValidatingAHexa\obj\Debug\netcoreapp3.1\ValidatingAHexa.AssemblyInfoInputs.cache
+C:\Users\Yasmin\source\repos\ValidatingAHexa\ValidatingAHexa\obj\Debug\netcoreapp3.1\ValidatingAHexa.AssemblyInfo.cs
+C:\Users\Yasmin\source\repos\ValidatingAHexa\ValidatingAHexa\obj\Debug\netcoreapp3.1\ValidatingAHexa.csproj.CoreCompileInputs.cache
+C:\Users\Yasmin\source\repos\ValidatingAHexa\ValidatingAHexa\obj\Debug\netcoreapp3.1\ValidatingAHexa.dll
+C:\Users\Yasmin\source\repos\ValidatingAHexa\ValidatingAHexa\obj\Debug\netcoreapp3.1\ValidatingAHexa.pdb
+C:\Users\Yasmin\source\repos\ValidatingAHexa\ValidatingAHexa\obj\Debug\netcoreapp3.1\ValidatingAHexa.genruntimeconfig.cache
